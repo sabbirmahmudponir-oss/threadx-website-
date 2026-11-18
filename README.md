@@ -33,3 +33,5 @@ Then open `index.html` and update the sample products, prices and image URLs wit
 
 ## Hosting limitations
 GitHub Pages hosts static files. WhatsApp is used for order enquiries; this starter website does not have a database, inventory management, admin dashboard or built-in card checkout. External image/font services require an internet connection.
+const WHATSAPP_NUMBER = "8801XXXXXXXXX";
+
